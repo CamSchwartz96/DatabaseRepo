@@ -1,0 +1,19 @@
+{
+  "name": "newdbproject",
+  "version": "1.0.0",
+  "description": "a newer app",
+  "main": "app.js",
+  "scripts": {
+    "test": "stare"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamSchwartz96/DatabaseRepo.git"
+  },
+  "author": "Cameron Schwartz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamSchwartz96/DatabaseRepo/issues"
+  },
+  "homepage": "https://github.com/CamSchwartz96/DatabaseRepo#readme"
+}

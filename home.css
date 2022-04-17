@@ -1,0 +1,16 @@
+img {
+    margin: 30px;
+    border: solid;
+    border-width: 250px;
+    align-content: center;
+}
+
+nav {
+    border: solid;
+    border-radius: 5px;
+    border-color: lightgray;
+}
+
+nav ul li {
+    font-size: 20px;
+}
